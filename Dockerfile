@@ -1,4 +1,4 @@
-FROM caca
+FROM whanos-c
 
 ONBUILD COPY Makefile .
 ONBUILD COPY app/ ./app/
