@@ -1,4 +1,4 @@
-FROM gcc:13.2
+FROM whanos-ts
 
 COPY Makefile .
 COPY app/ ./app/
