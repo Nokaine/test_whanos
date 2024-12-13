@@ -1,4 +1,4 @@
-FROM caca
+FROM whanos-c
 
 COPY Makefile .
 COPY app/ ./app/
