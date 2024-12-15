@@ -1,4 +1,4 @@
-FROM whanos-ts
+FROM whanos-c
 
 COPY Makefile .
 COPY app/ ./app/
